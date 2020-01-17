@@ -1,6 +1,6 @@
 from __future__ import unicode_literals
 from sys import argv
-import youtube_dl 
+import youtube_dl
 import os
 
 
